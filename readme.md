@@ -1,21 +1,24 @@
-# TS Algorithms
+# Algorithms
 
 Popular algorithms implemented in Typescript.
 
+## Setup
+
+First, install dependencies:
+
+```sh
+$ yarn
+```
+
+Commands are divided by algorithm name. So, if you want launch bubble sort then run:
+
+```sh
+$ yarn bubble-sort
+```
+
 ## Status
 
-Work in progress.
+Work in progress; I will be implementing more in my free time.
 
-## Commands
-
-Compile and run main file:
-
-```ts
-$ yarn start
-```
-
-Compile and run main file in watch mode:
-
-```ts
-$ yarn dev
-```
+- ✅ Bubble sort
+- ✅ Selection sort
